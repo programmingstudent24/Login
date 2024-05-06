@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "132791364912",
+    "project_id": "cooking-app-e5925",
+    "storage_bucket": "cooking-app-e5925.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132791364912:android:5481769694bd24fc222cf5",
+        "android_client_info": {
+          "package_name": "com.example.cooking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132791364912-i7qlgadn0bpav8fglo35mpfbci2esa6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQJduxi1dFaPWS1q1iJXkUr89_cQxD0EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132791364912-i7qlgadn0bpav8fglo35mpfbci2esa6c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "132791364912-bg3kae255a0j7lvti0i28mgo23h7n7dq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cookingApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132791364912:android:04eb23f5bc9fb6e0222cf5",
+        "android_client_info": {
+          "package_name": "com.example.cooking_app_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132791364912-h64c82884fptoldf83d014qjgvvao9jv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cooking_app_project",
+            "certificate_hash": "c5dec1d0adfcad8a18369eb8430bacb2ad2d735a"
+          }
+        },
+        {
+          "client_id": "132791364912-i7qlgadn0bpav8fglo35mpfbci2esa6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQJduxi1dFaPWS1q1iJXkUr89_cQxD0EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132791364912-i7qlgadn0bpav8fglo35mpfbci2esa6c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "132791364912-bg3kae255a0j7lvti0i28mgo23h7n7dq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cookingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
